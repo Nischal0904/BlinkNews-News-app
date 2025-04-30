@@ -3,6 +3,7 @@ BlinkNews - Real-Time News Application
 BlinkNews is a modern, responsive web application designed to keep you updated with the latest news from around the world. Built using React and powered by NewsAPI, this app fetches real-time headlines across various categories like Technology, Business, Health, Sports, and Entertainment. The application is simple, intuitive, and efficient, offering an easy-to-navigate interface with the latest news at your fingertips.
 
 Key Features
+
 Real-Time News Fetching: Pulls the latest headlines from various trusted news sources using the NewsAPI.
 
 Category-Based News: View top headlines from categories like Technology, Business, Health, Sports, and Entertainment.
@@ -19,6 +20,7 @@ Screenshots
 <img width="945" alt="image" src="https://github.com/user-attachments/assets/4090518c-03a8-4608-9a1a-a17b344910a5" />
 
 How to Run Locally
+
 1. Clone the Repository
 First, clone the project to your local machine:
 git clone https://github.com/Nischal0904/BlinkNews-News-app.git

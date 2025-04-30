@@ -1,4 +1,5 @@
 BlinkNews - Real-Time News Application
+
 BlinkNews is a modern, responsive web application designed to keep you updated with the latest news from around the world. Built using React and powered by NewsAPI, this app fetches real-time headlines across various categories like Technology, Business, Health, Sports, and Entertainment. The application is simple, intuitive, and efficient, offering an easy-to-navigate interface with the latest news at your fingertips.
 
 Key Features
@@ -26,14 +27,16 @@ git clone https://github.com/Nischal0904/BlinkNews-News-app.git
 cd BlinkNews-News-app
 
 5. Install Dependencies
+
 Install the necessary dependencies by running:
 npm install
 
 4. Configure Environment Variables
-Create a .env file in the root of your project and add your NewsAPI key:
-VITE_API_KEY=your_news_api_key_here
 
-You can obtain your NewsAPI key by signing up at NewsAPI.
+ Create a .env file in the root of your project and add your NewsAPI key:
+ VITE_API_KEY=your_news_api_key_here
+
+ You can obtain your NewsAPI key by signing up at NewsAPI.
 
 Note: Make sure that the .env file is added to .gitignore to keep your API key secure and prevent it from being pushed to version control.
 

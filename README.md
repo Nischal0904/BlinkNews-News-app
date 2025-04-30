@@ -13,7 +13,9 @@ BlinkNews is a modern, responsive web application designed to keep you updated w
 ## **Screenshots**
 
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/6aedf0b7-a1a2-4b89-8779-9891e04d94ca" />
+
 <img width="937" alt="image" src="https://github.com/user-attachments/assets/4a244600-8879-45a0-b734-6bb701db70a4" />
+
 <img width="945" alt="image" src="https://github.com/user-attachments/assets/4090518c-03a8-4608-9a1a-a17b344910a5" />
 
 ## **How to Run the Application Locally**
